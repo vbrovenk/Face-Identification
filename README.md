@@ -7,11 +7,11 @@ The problem of Single Sample per Person was solved by augmentation of reference 
 
 ### Example of work application
 
-![](https://github.com/vbrovenk/Face-Identification/imgs/run_app.gif)
+![](https://github.com/vbrovenk/Face-Identification/blob/master/imgs/run_app.gif)
 
 ### Scheme of algorithm
 
-![](https://github.com/vbrovenk/Face-Identification/imgs/run_app.gif)
+![](https://github.com/vbrovenk/Face-Identification/blob/master/imgs/process_diagramm.png)
 
 The Algorithm includes following methods:
 - **Augmentation** for extanding training set; 
